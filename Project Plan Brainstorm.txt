@@ -1,0 +1,29 @@
+Project Plan Brainstorm
+
+What are elements of a good project plan?
+-----------------------------------------
+
+- Clear, no ambiguity in what is trying to be accomplished. That is to say, decisions about what needs to be coded/worked on
+are not left obscure; What's added to the project is in the plan, and what's in the plan is what's added to the project.
+- Baby Steps. The plan outlines tasks in the smallest steps possible, with the intention of making it easy to work on the project.
+- The plan only outlines core functionality, and doesn't confuse goals with less important tasks. (e.g. it is not important
+that the GUI is colored in an attractive way, is IS important that the GUI has the desired output)
+- To be continued.
+
+
+What things do you need to think about for diving in?
+-----------------------------------------------------
+
+- The project plan should include organization of the work to be done, seperating different parts, like GUI and certain 
+components, but also how they will connect later on.
+- It is invaluable to anticipate problems before they arise. Areas where knowledge is lacking, or there is an unsolved problem, 
+need to be outlined at first so that they can be considered before starting the project. The project cannot be started if 
+these issues have not been addressed and planned for.
+- There should be atleast a paragraph that can sum up the goal, functionality and purpose of the program in the first place. 
+This could be a vision statement, or a project description, or the like, to orient the developer to what is it they are making.
+No amont of time spent on the project should be spent doddling on different ideas for functionality or questioning the value 
+of certain content added.
+
+
+
+
